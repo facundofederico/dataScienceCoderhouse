@@ -1,0 +1,1 @@
+This is just a repo used to upload all data files used in deliverables of Data Science Coderhouse curse
