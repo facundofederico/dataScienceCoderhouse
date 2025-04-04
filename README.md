@@ -1,1 +1,6 @@
-This is just a repo used to upload all data files used in deliverables of Data Science Coderhouse curse
+This is the final project of the Coderhouse course 'Data Science I and II'.
+It has no real value besides applying Data Science and Data Analysis techniques.
+
+The raw data was obtained from Spotify's open API.
+
+Facundo Federico
